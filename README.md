@@ -1,4 +1,4 @@
-Sales Performance Analysis - Scenrio
+Sales Performance Analysis - Scenario
 
 Background:
     You work for a retail company that sells electronic gadgets. The company operates online across the country. The sales data for the past year is available in Excel format. Your task is to analyze the sales data and provide insights to the management team.
